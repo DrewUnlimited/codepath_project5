@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.project_05_bitfit_part_01.app-mergeDebugResources-40:/layout/habit_information.xml",
+        "source": "com.example.project_05_bitfit_part_01.app-main-43:/layout/habit_information.xml"
+    },
+    {
+        "merged": "com.example.project_05_bitfit_part_01.app-mergeDebugResources-40:/layout/habit_item.xml",
+        "source": "com.example.project_05_bitfit_part_01.app-main-43:/layout/habit_item.xml"
+    },
+    {
+        "merged": "com.example.project_05_bitfit_part_01.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.project_05_bitfit_part_01.app-main-43:/layout/activity_main.xml"
+    }
+]
